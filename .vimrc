@@ -66,3 +66,5 @@ autocmd VimEnter,Colorscheme * : hi IndentGuidesEven ctermbg=black
 map <F8> :NERDTreeToggle<CR>
 map <F2> :GoDef<CR>
 map <F4> :TagbarToggle<CR>
+map <Tab> :bn<CR>
+map <S-Tab> :bp<CR>
