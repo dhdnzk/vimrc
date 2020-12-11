@@ -17,6 +17,7 @@ Plugin 'fatih/vim-go'
 Plugin 'valloric/youcompleteme'
 Plugin 'shougo/vimproc.vim'
 
+"Plugin 'zxqfl/tabnine-vim'
 "Plugin 'easymotion/vim-easymotion'
 "Plugin 'joonty/vdebug'
 "Plugin 'marijnh/tern_for_vim'
